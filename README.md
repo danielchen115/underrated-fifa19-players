@@ -1,4 +1,4 @@
-# Finding the most underrated players in FIFA 19.
+# Finding the most underrated players in FIFA 19
 It's difficult to put a price on a player. There's so many factors that go into play to decide how "good" a player is, 
 and it's hard (if not impossible) to get it 100% correct. I want to find out which players give the most bang for their buck; The players that should be worth way more than what they're listed as.
 
